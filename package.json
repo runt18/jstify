@@ -1,5 +1,5 @@
 {
-  "name": "jstify",
+  "name": "jstify2",
   "version": "0.8.0",
   "description": "Browserify transform for pre-compiled Underscore and Lo-Dash templates (with HTML minification)",
   "keywords": [
